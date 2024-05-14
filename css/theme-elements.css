@@ -1159,7 +1159,7 @@ Theme Version:	9.9.3
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: #212529;
+	background: #229545;
 	position: absolute;
 	z-index: 1000;
 	animation-duration: 1s;
@@ -1413,7 +1413,7 @@ Theme Version:	9.9.3
 }
 
 .badge-dark {
-	background-color: #212529;
+	background-color: #229545;
 	color: #FFF;
 }
 
@@ -1637,7 +1637,7 @@ Theme Version:	9.9.3
 }
 
 .progress-bar-dark {
-	background-color: #212529;
+	background-color: #229545;
 	color: #FFF;
 }
 
@@ -1675,7 +1675,7 @@ Theme Version:	9.9.3
 }
 
 .breadcrumb.breadcrumb-block {
-	background: #212529;
+	background: #229545;
 	display: inline-block !important;
 	padding: 7.2px 19.2px;
 	padding: .45rem 1.2rem;
@@ -2030,7 +2030,7 @@ html body.body .btn:active {
 	bottom: -2px;
 	width: 0;
 	height: 2px;
-	background: #212529;
+	background: #229545;
 	transition: width 0.25s ease-out;
 }
 
@@ -2049,7 +2049,7 @@ html body.body .btn:active {
 	bottom: -2px;
 	width: 0;
 	height: 2px;
-	background: #212529;
+	background: #229545;
 	transition: width 0.25s ease-out;
 }
 
@@ -2068,7 +2068,7 @@ html body.body .btn:active {
 	bottom: -2px;
 	width: 0;
 	height: 2px;
-	background: #212529;
+	background: #229545;
 	transition: width 0.3s ease 0s, left 0.3s ease 0s;
 }
 
@@ -2088,7 +2088,7 @@ html body.body .btn:active {
 	bottom: -2px;
 	width: 100%;
 	height: 2px;
-	background: #212529;
+	background: #229545;
 	transform: scaleX(0);
 	transform-origin: bottom right;
 	transition: transform .3s;
@@ -2110,7 +2110,7 @@ html body.body .btn:active {
 	bottom: 0;
 	width: 100%;
 	height: 0;
-	background: #212529;
+	background: #229545;
 	transition: height 0.2s ease;
 }
 
@@ -2421,14 +2421,14 @@ html body.body .btn:active {
 }
 
 .btn-dark {
-	background-color: #212529;
-	border-color: #212529 #212529 #0a0c0d;
+	background-color: #229545;
+	border-color: #229545 #229545 #0a0c0d;
 	color: #FFF;
 }
 
 .btn-dark:hover, .btn-dark.hover {
 	background-color: #32383e;
-	border-color: #383f45 #383f45 #212529;
+	border-color: #383f45 #383f45 #229545;
 	color: #FFF;
 }
 
@@ -2437,8 +2437,8 @@ html body.body .btn:active {
 }
 
 .btn-dark.disabled, .btn-dark:disabled {
-	background-color: #212529;
-	border-color: #212529 #212529 #0a0c0d;
+	background-color: #229545;
+	border-color: #229545 #229545 #0a0c0d;
 }
 
 .btn-dark:active, .btn-dark.active,
@@ -2449,16 +2449,16 @@ html body.body .btn:active {
 }
 
 .btn-outline.btn-dark {
-	color: #212529;
+	color: #229545;
 	background-color: transparent;
 	background-image: none;
-	border-color: #212529;
+	border-color: #229545;
 }
 
 .btn-outline.btn-dark:hover, .btn-outline.btn-dark.hover {
 	color: #FFF;
-	background-color: #212529;
-	border-color: #212529;
+	background-color: #229545;
+	border-color: #229545;
 }
 
 .btn-outline.btn-dark:focus, .btn-outline.btn-dark.focus {
@@ -2466,15 +2466,15 @@ html body.body .btn:active {
 }
 
 .btn-outline.btn-dark.disabled, .btn-outline.btn-dark:disabled {
-	color: #212529;
+	color: #229545;
 	background-color: transparent;
 }
 
 .btn-outline.btn-dark:active, .btn-outline.btn-dark.active,
 .show > .btn-outline.btn-dark.dropdown-toggle {
 	color: #FFF;
-	background-color: #212529;
-	border-color: #212529;
+	background-color: #229545;
+	border-color: #229545;
 }
 
 /* Button Light */
@@ -2691,7 +2691,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 .pin-wrapper .sticky-active:not([class*="sticky-wrapper-effect"]) .hamburguer-btn.hamburguer-btn-sticky-dark .close span,
 .pin-wrapper .sticky-effect-active .hamburguer-btn.hamburguer-btn-sticky-dark .hamburguer span,
 .pin-wrapper .sticky-effect-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span {
-	background: #212529;
+	background: #229545;
 }
 
 /* Badge */
@@ -2903,7 +2903,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 
 .call-to-action h3 {
 	text-transform: none;
-	color: #212529;
+	color: #229545;
 	padding: 0;
 	margin: 0 0 9px;
 }
@@ -3994,7 +3994,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 .owl-carousel.nav-light:not(.nav-style-1):not(.nav-style-2):not(.nav-style-3):not(.show-nav-title):not(.nav-arrows-1) .owl-nav button[class*="owl-"] {
 	background-color: #ececec !important;
 	border-color: #ececec !important;
-	color: #212529 !important;
+	color: #229545 !important;
 }
 
 .owl-carousel.nav-light:not(.nav-style-1):not(.nav-style-2):not(.nav-style-3):not(.show-nav-title):not(.nav-arrows-1) .owl-nav button[class*="owl-"]:hover {
@@ -4015,8 +4015,8 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 }
 
 .owl-carousel.nav-light:not(.nav-style-1):not(.nav-style-2):not(.nav-style-3):not(.show-nav-title):not(.nav-arrows-1).nav-svg-arrows-1 .owl-nav button[class*="owl-"] svg polygon {
-	fill: #212529 !important;
-	stroke: #212529 !important;
+	fill: #229545 !important;
+	stroke: #229545 !important;
 }
 
 .owl-carousel.nav-light.nav-style-1 .owl-nav .owl-next,
@@ -4058,8 +4058,8 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 }
 
 .owl-carousel.nav-dark:not(.nav-style-1):not(.nav-style-2):not(.nav-style-3):not(.show-nav-title):not(.nav-arrows-1) .owl-nav .owl-next:active, .owl-carousel.nav-dark:not(.nav-style-1):not(.nav-style-2):not(.nav-style-3):not(.show-nav-title):not(.nav-arrows-1) .owl-nav .owl-prev:active {
-	background-color: #212529 !important;
-	border-color: #212529 !important;
+	background-color: #229545 !important;
+	border-color: #229545 !important;
 }
 
 .owl-carousel.nav-dark:not(.nav-style-1):not(.nav-style-2):not(.nav-style-3):not(.show-nav-title):not(.nav-arrows-1).nav-with-transparency .owl-nav .owl-next, .owl-carousel.nav-dark:not(.nav-style-1):not(.nav-style-2):not(.nav-style-3):not(.show-nav-title):not(.nav-arrows-1).nav-with-transparency .owl-nav .owl-prev {
@@ -4085,29 +4085,29 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 
 .owl-carousel.nav-dark.nav-style-1 .owl-nav .owl-next,
 .owl-carousel.nav-dark.nav-style-1 .owl-nav .owl-prev {
-	color: #212529 !important;
+	color: #229545 !important;
 }
 
 .owl-carousel.nav-dark.nav-style-2 .owl-nav .owl-next:before, .owl-carousel.nav-dark.nav-style-2 .owl-nav .owl-next:after,
 .owl-carousel.nav-dark.nav-style-2 .owl-nav .owl-prev:before,
 .owl-carousel.nav-dark.nav-style-2 .owl-nav .owl-prev:after {
-	border-color: #212529 !important;
+	border-color: #229545 !important;
 }
 
 .owl-carousel.nav-dark.nav-style-3 .owl-nav .owl-next,
 .owl-carousel.nav-dark.nav-style-3 .owl-nav .owl-prev {
-	color: #212529 !important;
+	color: #229545 !important;
 }
 
 .owl-carousel.nav-dark.nav-svg-arrows-1 .owl-nav .owl-next svg polygon,
 .owl-carousel.nav-dark.nav-svg-arrows-1 .owl-nav .owl-prev svg polygon {
-	fill: #212529 !important;
-	stroke: #212529 !important;
+	fill: #229545 !important;
+	stroke: #229545 !important;
 }
 
 .owl-carousel.nav-dark.nav-arrows-1 .owl-nav .owl-next,
 .owl-carousel.nav-dark.nav-arrows-1 .owl-nav .owl-prev {
-	color: #212529 !important;
+	color: #229545 !important;
 }
 
 .owl-carousel .owl-dots .owl-dot {
@@ -4396,7 +4396,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 .carousel-areas {
 	background: #f2f2f2;
 	background: linear-gradient(to bottom, #f2f2f2 0%, rgba(33, 37, 41, 0.5) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#212529', GradientType=0 );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#229545', GradientType=0 );
 	margin-bottom: -10px;
 	padding: 8px 8px 0 8px;
 	border-radius: 6px 6px 0 0;
@@ -4586,7 +4586,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 	font-size: 48px;
 	font-size: 3rem;
 	line-height: 1;
-	color: #212529;
+	color: #229545;
 }
 
 .countdown.countdown-light > span {
@@ -4609,7 +4609,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 .countdown.countdown-borders > span {
 	border-width: 2px;
 	border-style: solid;
-	border-color: #212529;
+	border-color: #229545;
 	margin-right: 15px;
 	margin-left: 15px;
 	padding: 24px;
@@ -5545,7 +5545,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 }
 
 .featured-boxes-modern-style-2 .featured-box .box-content h2 {
-	color: #212529;
+	color: #229545;
 	font-weight: 700;
 	font-size: 19.2px;
 	font-size: 1.2rem;
@@ -5753,7 +5753,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 
 /* Style 2 */
 .feature-box.feature-box-style-2 h4 {
-	color: #212529;
+	color: #229545;
 }
 
 .feature-box.feature-box-style-2 .feature-box-icon {
@@ -5771,7 +5771,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 
 /* Style 3 */
 .feature-box.feature-box-style-3 h4 {
-	color: #212529;
+	color: #229545;
 }
 
 .feature-box.feature-box-style-3 .feature-box-icon {
@@ -5790,7 +5790,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 }
 
 .feature-box.feature-box-style-4 h4 {
-	color: #212529;
+	color: #229545;
 }
 
 .feature-box.feature-box-style-4 .feature-box-icon {
@@ -5814,7 +5814,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 
 /* Style 5 */
 .feature-box.feature-box-style-5 h4 {
-	color: #212529;
+	color: #229545;
 }
 
 .feature-box.feature-box-style-5 .feature-box-icon {
@@ -5834,7 +5834,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 
 /* Style 6 */
 .feature-box.feature-box-style-6 h4 {
-	color: #212529;
+	color: #229545;
 }
 
 .feature-box.feature-box-style-6 .feature-box-icon {
@@ -7586,7 +7586,7 @@ input[type="search" i]::-webkit-search-cancel-button {
 	font-size: 1rem;
 	top: 2px;
 	right: 2px;
-	color: #212529;
+	color: #229545;
 	font-weight: bold;
 }
 
@@ -8104,7 +8104,7 @@ input[type="search" i]::-webkit-search-cancel-button {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-	color: #212529;
+	color: #229545;
 	font-weight: 200;
 	letter-spacing: -.05em;
 	margin: 0;
@@ -8231,7 +8231,7 @@ h2.dark,
 h3.dark,
 h4.dark,
 h5.dark {
-	color: #212529;
+	color: #229545;
 }
 
 h1.light,
@@ -8986,7 +8986,7 @@ button.mfp-arrow {
 	top: 50%;
 	left: 0;
 	border-radius: 4px;
-	background: #212529;
+	background: #229545;
 	width: 35px;
 	height: 100px;
 	color: #FFF;
@@ -11570,7 +11570,7 @@ html body .rounded-circle {
 }
 
 .sticky-wrapper.sticky-wrapper-effect-1.sticky-wrapper-effect-1-dark.sticky-effect-active .sticky-body {
-	background: #212529;
+	background: #229545;
 }
 
 .sticky-wrapper.sticky-wrapper-border-bottom.sticky-effect-active .sticky-body {
@@ -11852,7 +11852,7 @@ Credits: Codyhouse (https://codyhouse.co/gem/360-degrees-product-viewer)
 	height: 100%;
 	width: 100%;
 	border-radius: inherit;
-	background: #212529;
+	background: #229545;
 	transform: scaleX(0);
 	transform-origin: left center;
 	transition: ease transform 500ms;
@@ -11876,9 +11876,9 @@ Credits: Codyhouse (https://codyhouse.co/gem/360-degrees-product-viewer)
 	width: 44px;
 	left: 0;
 	top: -20px;
-	background: #212529;
+	background: #229545;
 	border-radius: 50%;
-	border: 2px solid #212529;
+	border: 2px solid #229545;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
@@ -12395,7 +12395,7 @@ Credits: Codyhouse (https://codyhouse.co/gem/360-degrees-product-viewer)
 }
 
 .particle.particle-repeating-lines.bg-dark {
-	background: repeating-linear-gradient(-55deg, rgba(255, 255, 255, 0) 0.8px, #212529 1.6px, #212529 3px, rgba(255, 255, 255, 0) 3.8px, rgba(255, 255, 255, 0) 10px) !important;
+	background: repeating-linear-gradient(-55deg, rgba(255, 255, 255, 0) 0.8px, #229545 1.6px, #229545 3px, rgba(255, 255, 255, 0) 3.8px, rgba(255, 255, 255, 0) 10px) !important;
 }
 
 .patterns svg {
@@ -12791,7 +12791,7 @@ html.boxed .nav-secondary.sticky-active {
 	top: 50%;
 	right: calc(100% + 20px);
 	background: #FFF;
-	color: #212529;
+	color: #229545;
 	font-size: 12.8px;
 	font-size: 0.8rem;
 	font-weight: 800;
@@ -12849,7 +12849,7 @@ html.boxed .nav-secondary.sticky-active {
 	bottom: 0;
 	left: 0;
 	z-index: 2;
-	background: #212529;
+	background: #229545;
 	opacity: 0;
 	pointer-events: none;
 	transition: ease opacity 300ms 100ms;
@@ -12911,7 +12911,7 @@ html.boxed .nav-secondary.sticky-active {
 }
 
 .overlay-dark:before {
-	background-color: #212529 !important;
+	background-color: #229545 !important;
 }
 
 .overlay-primary:before {
@@ -12934,14 +12934,14 @@ html.boxed .nav-secondary.sticky-active {
 .overlay-gradient-bottom-content:before {
 	opacity: 1 !important;
 	background: rgba(33, 37, 41, 0);
-	background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 30%, #212529 100%);
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 30%, #229545 100%);
 }
 
 /* Overlay Gradient Top Content */
 .overlay-gradient-top-content:before {
 	opacity: 1 !important;
 	background: rgba(33, 37, 41, 0);
-	background: linear-gradient(to top, rgba(0, 0, 0, 0) 30%, #212529 100%);
+	background: linear-gradient(to top, rgba(0, 0, 0, 0) 30%, #229545 100%);
 }
 
 /* Overlay Gradient */
@@ -13048,7 +13048,7 @@ html.boxed .nav-secondary.sticky-active {
 }
 
 .pricing-table .plan .plan-header {
-	background: #212529;
+	background: #229545;
 	padding: 15.2px 16px;
 	padding: 0.95rem 1rem;
 }
@@ -13084,7 +13084,7 @@ html.boxed .nav-secondary.sticky-active {
 	font-size: 2.7rem;
 	font-weight: 600;
 	line-height: 1;
-	color: #212529;
+	color: #229545;
 }
 
 .pricing-table .plan .plan-price .price .price-unit {
@@ -13197,7 +13197,7 @@ html.boxed .nav-secondary.sticky-active {
 	font-size: 2.7rem;
 	font-weight: 600;
 	line-height: 1;
-	color: #212529;
+	color: #229545;
 }
 
 .pricing-block .plan-price .price .price-unit {
@@ -13303,7 +13303,7 @@ html.boxed .nav-secondary.sticky-active {
 
 .process .process-step-circle-content {
 	font-weight: bold;
-	color: #212529;
+	color: #229545;
 	font-size: 1.6em;
 	letter-spacing: -1px;
 	transition: all 0.2s ease-in-out;
@@ -14398,7 +14398,7 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 	top: 0;
 	pointer-events: none;
 	opacity: 0.9;
-	background: #212529;
+	background: #229545;
 	z-index: 2;
 }
 
@@ -14500,11 +14500,11 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 }
 
 .slider-scroll-button.slider-scroll-button-dark:before {
-	border-color: #212529;
+	border-color: #229545;
 }
 
 .slider-scroll-button.slider-scroll-button-dark:after {
-	border-color: #212529;
+	border-color: #229545;
 }
 
 /* Arrows */
@@ -15270,40 +15270,40 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 }
 
 .svg-fill-color-dark {
-	fill: #212529 !important;
+	fill: #229545 !important;
 }
 
 .svg-fill-color-dark svg path, .svg-fill-color-dark svg rect {
-	fill: #212529 !important;
+	fill: #229545 !important;
 }
 
 .svg-fill-color-hover-dark:hover {
-	fill: #212529 !important;
+	fill: #229545 !important;
 }
 
 .svg-fill-color-hover-dark svg:hover path, .svg-fill-color-hover-dark svg:hover rect {
-	fill: #212529 !important;
+	fill: #229545 !important;
 }
 
 .svg-stroke-color-dark {
-	stroke: #212529 !important;
+	stroke: #229545 !important;
 }
 
 .svg-stroke-color-dark svg path, .svg-stroke-color-dark svg rect {
-	stroke: #212529 !important;
+	stroke: #229545 !important;
 }
 
 .svg-stroke-color-hover-dark:hover {
-	stroke: #212529 !important;
+	stroke: #229545 !important;
 }
 
 .svg-stroke-color-hover-dark svg:hover path, .svg-stroke-color-hover-dark svg:hover rect {
-	stroke: #212529 !important;
+	stroke: #229545 !important;
 }
 
 /* SVG Animations */
 .svg-animation-effect-1-hover.svg-animation-effect-1-hover-dark:hover svg path, .svg-animation-effect-1-hover.svg-animation-effect-1-hover-dark:hover svg polygon, .svg-animation-effect-1-hover.svg-animation-effect-1-hover-dark:hover svg polyline, .svg-animation-effect-1-hover.svg-animation-effect-1-hover-dark:hover svg rect {
-	stroke: #212529;
+	stroke: #229545;
 }
 
 .svg-animation-effect-1-hover.svg-animation-effect-1-hover-light:hover svg path, .svg-animation-effect-1-hover.svg-animation-effect-1-hover-light:hover svg polygon, .svg-animation-effect-1-hover.svg-animation-effect-1-hover-light:hover svg polyline, .svg-animation-effect-1-hover.svg-animation-effect-1-hover-light:hover svg rect {
@@ -15411,7 +15411,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 .table > thead > tr.dark > th,
 .table > tbody > tr.dark > th,
 .table > tfoot > tr.dark > th {
-	background-color: #212529;
+	background-color: #229545;
 	color: #FFF;
 }
 
@@ -16359,7 +16359,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 }
 
 .testimonial.testimonial-with-quotes.testimonial-quotes-dark blockquote:before, .testimonial.testimonial-with-quotes.testimonial-quotes-dark blockquote:after {
-	color: #212529 !important;
+	color: #229545 !important;
 }
 
 @media (max-width: 767px) {
@@ -16788,7 +16788,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 }
 
 .thumb-info.thumb-info-bottom-info-dark .thumb-info-title {
-	background: #212529;
+	background: #229545;
 	color: #FFF;
 }
 
@@ -17611,7 +17611,7 @@ section.timeline .timeline-box .owl-carousel {
 	margin-bottom: -10px;
 	font-size: 1em;
 	font-weight: 600;
-	color: #212529;
+	color: #229545;
 }
 
 .toggle.toggle-simple .toggle > label:after,
@@ -17650,7 +17650,7 @@ section.timeline .timeline-box .owl-carousel {
 .toggle.toggle-simple .toggle.active > label,
 .toggle.toggle-simple .toggle.active > .toggle-title {
 	background: transparent;
-	color: #212529;
+	color: #229545;
 }
 
 .toggle.toggle-simple .toggle.active > label:before,
@@ -18002,7 +18002,7 @@ html.boxed section.video > div:first-child video {
 }
 
 .word-rotator.type .word-rotator-words.selected {
-	background-color: #212529 !important;
+	background-color: #229545 !important;
 }
 
 .word-rotator.type .word-rotator-words.selected::after {
@@ -18164,7 +18164,7 @@ html.boxed section.video > div:first-child video {
 	bottom: 0;
 	height: 3px;
 	width: 0;
-	background: #212529;
+	background: #229545;
 	z-index: 2;
 	transition: width .3s -0.1s;
 }
@@ -18175,7 +18175,7 @@ html.boxed section.video > div:first-child video {
 }
 
 .word-rotator.loading-bar .word-rotator-words.bg-light::after {
-	background-color: #212529 !important;
+	background-color: #229545 !important;
 }
 
 .word-rotator.loading-bar .word-rotator-words[class*="bg-"]:not(.bg-light)::after {
@@ -18271,7 +18271,7 @@ html.boxed section.video > div:first-child video {
 	right: 0;
 	width: 2px;
 	height: 100%;
-	background-color: #212529;
+	background-color: #229545;
 }
 
 .word-rotator.clip b {

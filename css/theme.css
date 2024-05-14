@@ -747,11 +747,11 @@ pre {
 }
 
 #header .header-nav-features .header-nav-features-dropdown.header-nav-features-dropdown-dark {
-	background: #212529;
+	background: #229545;
 }
 
 #header .header-nav-features .header-nav-features-dropdown.header-nav-features-dropdown-dark:before {
-	border-bottom-color: #212529;
+	border-bottom-color: #229545;
 }
 
 #header .header-nav-features .header-nav-features-cart {
@@ -1248,7 +1248,7 @@ pre {
 }
 
 #header.header-dark .header-body {
-	background: #212529;
+	background: #229545;
 }
 
 #header.header-dark .header-body .header-nav.header-nav-links-side-header nav > ul > li > a {
@@ -1396,7 +1396,7 @@ html:not(.sticky-header-active) #header.header-transparent-dark-bottom-border-1 
 	}
 
 	html #header.header-transparent .header-body.bg-dark .header-nav-main:before, html #header.header-transparent .header-body.bg-color-dark .header-nav-main:before {
-		background-color: #212529;
+		background-color: #229545;
 	}
 
 	html #header.header-transparent .header-nav-main:before {
@@ -2027,7 +2027,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	}
 
 	#header .header-nav-main.header-nav-main-text-size-5 nav > ul > li.dropdown .dropdown-menu li a {
-		color: #212529;
+		color: #229545;
 		font-size: 0.875em;
 		font-weight: 500;
 		padding-top: 8px;
@@ -3706,7 +3706,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 /* Header Nav Main Mobile Dark */
 @media (max-width: 991px) {
 	#header .header-nav-main.header-nav-main-mobile-dark:before {
-		background-color: #212529;
+		background-color: #229545;
 	}
 
 	#header .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a {
@@ -4857,7 +4857,7 @@ html.side-header-hamburguer-sidebar-narrow-bar .slider-container {
 
 /* Page Header */
 .page-header {
-	background-color: #212529;
+	background-color: #229545;
 	margin: 0 0 35px 0;
 	padding: 30px 0;
 	position: relative;
@@ -7766,11 +7766,11 @@ html.dark .text-muted {
 
 /* Colors */
 .text-dark {
-	color: #212529 !important;
+	color: #229545 !important;
 }
 
 .inner-text-dark * {
-	color: #212529 !important;
+	color: #229545 !important;
 }
 
 a.text-dark:focus, a.text-dark:hover {
@@ -7877,7 +7877,7 @@ a.text-light:focus, a.text-light:hover {
 
 /* Dark */
 .bg-color-dark-scale-1 {
-	background-color: #212529 !important;
+	background-color: #229545 !important;
 }
 
 .bg-color-dark-scale-2 {
@@ -10102,8 +10102,8 @@ a.text-light:focus, a.text-light:hover {
 
 /* #Footer */
 #footer {
-	background: #212529;
-	border-top: 4px solid #212529;
+	background: #229545;
+	border-top: 4px solid #229545;
 	font-size: 0.9em;
 	margin-top: 50px;
 	padding: 0;
@@ -10382,7 +10382,7 @@ a.text-light:focus, a.text-light:hover {
 }
 
 #footer .footer-copyright.footer-copyright-style-2 {
-	background: #212529;
+	background: #229545;
 	border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
@@ -10470,11 +10470,11 @@ a.text-light:focus, a.text-light:hover {
 
 /* Dark Version */
 html.dark body, html.dark .body {
-	background-color: #212529;
+	background-color: #229545;
 }
 
 html.dark.boxed .body {
-	background-color: #212529;
+	background-color: #229545;
 }
 
 html.dark #header .header-top {
@@ -10487,7 +10487,7 @@ html.dark #header .header-search .form-control {
 }
 
 html.dark #header .header-body {
-	background: #212529;
+	background: #229545;
 	border-top-color: #333940;
 }
 
@@ -10674,7 +10674,7 @@ html.dark .nav-tabs li a {
 
 html.dark .tab-content {
 	background: #333940;
-	border-color: #212529;
+	border-color: #229545;
 }
 
 html.dark .tabs-simple .tab-content,
@@ -10715,7 +10715,7 @@ html.dark .call-to-action.featured {
 }
 
 html.dark .call-to-action.call-to-action-in-footer:before {
-	border-top-color: #212529;
+	border-top-color: #229545;
 }
 
 html.dark .counters.with-borders .counter {
@@ -10803,7 +10803,7 @@ html.dark .pagination > li > span {
 }
 
 html.dark section.section-custom-map {
-	background-color: #212529;
+	background-color: #229545;
 }
 
 html.dark section.section-custom-map section.section {
@@ -10901,7 +10901,7 @@ html.dark .featured-boxes-style-2 .featured-box {
 }
 
 html.dark .featured-boxes-style-3 .featured-box .icon-featured {
-	background: #212529;
+	background: #229545;
 }
 
 html.dark .featured-boxes-style-4 .featured-box {
@@ -11121,11 +11121,11 @@ html.dark .alert.alert-default {
 }
 
 html.dark hr {
-	background-image: linear-gradient(to left, #212529, #3F4247, #212529);
+	background-image: linear-gradient(to left, #229545, #3F4247, #229545);
 }
 
 html.dark hr.light {
-	background-image: linear-gradient(to left, #212529, #3F4247, #212529);
+	background-image: linear-gradient(to left, #229545, #3F4247, #229545);
 }
 
 html.dark hr.solid {
@@ -11137,7 +11137,7 @@ html.dark .divider {
 }
 
 html.dark .divider [class*="fa-"], html.dark .divider .icons {
-	background: #212529;
+	background: #229545;
 }
 
 html.dark .divider.divider-solid {
@@ -11201,7 +11201,7 @@ html.dark .heading.heading-middle-border:before {
 }
 
 html.dark .heading.heading-middle-border h1, html.dark .heading.heading-middle-border h2, html.dark .heading.heading-middle-border h3, html.dark .heading.heading-middle-border h4, html.dark .heading.heading-middle-border h5, html.dark .heading.heading-middle-border h6 {
-	background: #212529;
+	background: #229545;
 }
 
 html.dark .recent-posts .date .day,
@@ -11302,11 +11302,11 @@ html.dark .shop .cart-totals td {
 }
 
 html.dark .dialog {
-	background-color: #212529;
+	background-color: #229545;
 }
 
 html.dark .modal-content {
-	background-color: #212529;
+	background-color: #229545;
 }
 
 html.dark .modal-header {
@@ -11328,15 +11328,15 @@ html.dark .modal-footer {
 
 html.dark .popup-inline-content,
 html.dark .mfp-content .ajax-container {
-	background: #212529 !important;
+	background: #229545 !important;
 }
 
 html.dark .loading-overlay {
-	background: #212529;
+	background: #229545;
 }
 
 html.dark .sort-destination-loader:after {
-	background-color: #212529;
+	background-color: #229545;
 }
 
 html.dark #footer .newsletter form .btn-light {
@@ -11395,13 +11395,13 @@ html.dark #footer .newsletter form .form-control {
 	}
 
 	html.dark .header-nav-main nav > ul > li.dropdown-mega-signin .dropdown-menu {
-		background-color: #212529;
+		background-color: #229545;
 	}
 }
 
 @media (max-width: 991px) {
 	html.dark #header .header-nav-main:before {
-		background-color: #212529;
+		background-color: #229545;
 	}
 
 	html.dark #header .header-nav-main nav::-webkit-scrollbar-thumb {
